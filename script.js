@@ -66,7 +66,7 @@
                     <li>2. Pay full amount of ₹500</li>
                 </ul>
                 Note: Extra ₹300 for each additional person.<br>
-                Order Now: <a href="https://api.whatsapp.com/send?phone=917975952556&text=Hello,%20I%20recently%20visited%20your%20website%20and%20was%20really%20impressed%20with%20your%20work.%20I%20would%20love%20to%20place%20an%20order%20for%20${artType}%20on%20${artSize}" target="_blank">Click here</a><br>
+                Order Now: <a href="https://api.whatsapp.com/send?phone=917337758185&text=Hello,%20I%20recently%20visited%20your%20website%20and%20was%20really%20impressed%20with%20your%20work.%20I%20would%20love%20to%20place%20an%20order%20for%20${artType}%20on%20${artSize}" target="_blank">Click here</a><br>
                 It will be delivered in 7 days.
             </div>
 
