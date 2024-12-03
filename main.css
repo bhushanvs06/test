@@ -82,11 +82,13 @@ body {
     padding: 10px;
     border-radius: 10px;
     max-width: 90%;
+    color:black;
 }
 
 .bot-message {
     background-color: #e5e5e5;
     align-self: flex-start;
+    color:black;
 }
 
 .user-message {
